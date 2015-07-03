@@ -1,0 +1,6 @@
+c:\users\szymon\documents\visual studio 2013\Projects\SortFile\SortFile\bin\Debug\SortFile.exe.config
+c:\users\szymon\documents\visual studio 2013\Projects\SortFile\SortFile\bin\Debug\SortFile.exe
+c:\users\szymon\documents\visual studio 2013\Projects\SortFile\SortFile\bin\Debug\SortFile.pdb
+c:\users\szymon\documents\visual studio 2013\Projects\SortFile\SortFile\obj\Debug\SortFile.csprojResolveAssemblyReference.cache
+c:\users\szymon\documents\visual studio 2013\Projects\SortFile\SortFile\obj\Debug\SortFile.exe
+c:\users\szymon\documents\visual studio 2013\Projects\SortFile\SortFile\obj\Debug\SortFile.pdb
