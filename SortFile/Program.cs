@@ -16,14 +16,16 @@ namespace SortFile {
         static int index;
         static Random rand;
         static List<int> listOfNumbers;
+        static List<int> generateInt;
         static void Main(string[] args) {
             rand = new Random();
             index = 0;
+            generateInt = new List<int>();
             listOfNumbers = new List<int>();
             for(int i = 0; i < max; i++) {
-                listOfNumbers.Add(rand.Next(max * max));
+                generateInt.Add(rand.Next(max * max));
             }
-            WriteFile(file,listOfNumbers); //generujemy plik z liczbami
+            WriteFile(file,generateInt); //generujemy plik z liczbami
             ReadFile_Task(file);
 
             listOfNumbers.Sort();
